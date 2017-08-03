@@ -27,3 +27,36 @@ figure {
   width: 50%;
   margin: 40px auto;
 }
+
+.film-poster {
+  width: 30%;
+  display: inline-block;
+  margin-top: 10px;
+
+}
+i {
+  color: red;
+}
+.film-details{
+  display: inline-block;
+  width: 60%;
+}
+.film{
+  border: 1px solid grey;
+}
+ .action-like{
+   float: right;
+   margin-top: 30px;
+}
+.fa-2x{
+  float: right;
+  display: inline-block;
+
+}
+
+.film-description{
+  display: inline-block;
+  bottom: 500px;
+}
+
+}
