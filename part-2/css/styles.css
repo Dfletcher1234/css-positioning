@@ -67,10 +67,14 @@ i {
 }
 .film-title {
   display:inline;
-  
+
   margin-bottom:  100px;
   position: static;
   /*padding-bottom: 50px;*/
   padding-top: 0px;
+
+}
+h1 .film-title{
+  position:static;
 
 }
